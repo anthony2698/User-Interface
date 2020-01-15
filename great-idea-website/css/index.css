@@ -64,3 +64,18 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+/* 1st Section (Nav and Logo) */
+
+nav {
+	border: 2px solid black;
+}
+
+
+
+.container div {
+	display: inline-block;
+	text-align: center;
+}
+
+
