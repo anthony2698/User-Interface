@@ -66,16 +66,48 @@ h1, h2, h3, h4, h5 {
 /* Your code starts here! */
 
 /* 1st Section (Nav and Logo) */
-
 nav {
-	border: 2px solid black;
+	margin-left: 30%;
+	margin-top: 50px;
+	width: 100%;
 }
 
+a { 
+	margin: 2vw;
+}
+
+.logo {
+	margin-left: 75%;
+}
 
 
 .container div {
 	display: inline-block;
-	text-align: center;
 }
+
+/* 2nd Section */
+
+.container2 div {
+	display: inline-block;
+}
+
+#CTA {
+	margin: 0px 90px 120px 90px;
+}
+
+h1 {
+	font-size: 50px;
+}
+
+/* 3rd Section */
+
+.container3 div {
+	display: inline-block;
+	width: 600px;
+	margin: 30px;
+}
+
+
+
 
 
