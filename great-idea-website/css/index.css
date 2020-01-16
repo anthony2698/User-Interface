@@ -69,6 +69,7 @@ h1, h2, h3, h4, h5 {
 nav {
 	margin-left: 30%;
 	margin-top: 50px;
+	margin-bottom: 70px;
 	width: 100%;
 }
 
@@ -92,12 +93,24 @@ a {
 }
 
 #CTA {
-	margin: 0px 90px 120px 90px;
+	margin: 0px 120px 180px 240px; 
+	vertical-align: middle;
 }
 
 h1 {
-	font-size: 50px;
+	font-size: 80px;
+	text-align: justify;
+}
 
+button {
+	border: 1px solid black;
+	padding: 15px;
+	margin-left: 80px;
+}
+
+#snippet {
+	border: 2px solid red;
+	display: inline-block;
 }
 
 /* 3rd Section */
