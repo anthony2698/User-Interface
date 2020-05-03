@@ -64,3 +64,96 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+body {
+	display: inline-block;
+	text-align: center;
+}
+
+/* 1st Section (Nav and Logo) */
+nav {
+	margin-left: 30%;
+	margin-top: 50px;
+	margin-bottom: 70px;
+	width: 100%;
+}
+
+a { 
+	margin: 2vw;
+}
+
+.logo {
+	margin-left: 75%;
+}
+
+
+.container div {
+	display: inline-block;
+}
+
+/* 2nd Section */
+
+.container2 div {
+	display: inline-block;
+}
+
+#CTA {
+	margin: 0px 120px 180px 240px; 
+	vertical-align: middle;
+}
+
+h1 {
+	font-size: 80px;
+	text-align: justify;
+}
+
+button {
+	border: 1px solid black;
+	padding: 15px;
+	margin-left: 80px;
+}
+
+#snippet {
+	border: 2px solid red;
+	display: inline-block;
+}
+
+/* 3rd Section */
+
+.container3 div {
+	display: inline-block;
+	width: 400px;
+	margin: 60px;
+}
+
+/* Middle IMG */
+ 
+.middle-img {
+	margin-left: 80px;
+	width: 1000px;
+}
+
+/* 4th Section */
+
+.container4 div {
+	display: inline-block;
+	width: 260px;
+	margin: 60px;
+}
+
+footer {
+	text-align: center;
+	margin-bottom: 60px;
+}
+
+hr {
+	width: 1200px;
+}
+
+address {
+	margin: 50px 0px 50px 50px;
+}
+
+
+
+
